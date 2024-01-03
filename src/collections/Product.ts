@@ -1,7 +1,7 @@
 import { CollectionConfig } from 'payload/types'
 
 const Products: CollectionConfig = {
-    slug: 'users',
+    slug: 'products',
     auth: true,
     admin: {
         useAsTitle: 'name',
