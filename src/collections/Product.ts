@@ -4,7 +4,7 @@ const Products: CollectionConfig = {
     slug: 'products',
     auth: true,
     admin: {
-        useAsTitle: 'name',
+        useAsTitle: 'nombre',
     },
     fields: [
         // Email added by default
